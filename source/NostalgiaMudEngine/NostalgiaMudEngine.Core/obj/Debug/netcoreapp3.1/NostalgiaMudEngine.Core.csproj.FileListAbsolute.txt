@@ -1,0 +1,7 @@
+D:\repos\nostalgia-mud-engine\source\NostalgiaMudEngine\NostalgiaMudEngine.Core\bin\Debug\netcoreapp3.1\NostalgiaMudEngine.Core.deps.json
+D:\repos\nostalgia-mud-engine\source\NostalgiaMudEngine\NostalgiaMudEngine.Core\bin\Debug\netcoreapp3.1\NostalgiaMudEngine.Core.dll
+D:\repos\nostalgia-mud-engine\source\NostalgiaMudEngine\NostalgiaMudEngine.Core\bin\Debug\netcoreapp3.1\NostalgiaMudEngine.Core.pdb
+D:\repos\nostalgia-mud-engine\source\NostalgiaMudEngine\NostalgiaMudEngine.Core\obj\Debug\netcoreapp3.1\NostalgiaMudEngine.Core.AssemblyInfoInputs.cache
+D:\repos\nostalgia-mud-engine\source\NostalgiaMudEngine\NostalgiaMudEngine.Core\obj\Debug\netcoreapp3.1\NostalgiaMudEngine.Core.AssemblyInfo.cs
+D:\repos\nostalgia-mud-engine\source\NostalgiaMudEngine\NostalgiaMudEngine.Core\obj\Debug\netcoreapp3.1\NostalgiaMudEngine.Core.dll
+D:\repos\nostalgia-mud-engine\source\NostalgiaMudEngine\NostalgiaMudEngine.Core\obj\Debug\netcoreapp3.1\NostalgiaMudEngine.Core.pdb
