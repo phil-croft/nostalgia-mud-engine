@@ -10,7 +10,7 @@ Most traditional MUDs are purely text-based. In lieu of graphics, the game world
   - The client was built on React
   - Real-time gameplay is delivered over websockets using SignalR
 
-### Limitations
+### Scope
 NME is *not* an MMORPG, and lacks the scalability necessary for massive player numbers. Meeting the resource demands of a massive player population would require an architectural overhaul, and is beyond the scope of this project. Given that MUDs are a very niche hobby, and most have less than 50 concurrent players, NME will support most practical use-cases with ease.
 
 ### Installation & Customization
